@@ -17,7 +17,7 @@ let anotherMessage = {
 }
 let one = {
   id: 2,
-  from: "Bart",var port = process.env.PORT || 8080;
+  from: "Bart",
   text: "Welcome to CYF chat system!"
 }
 let two = {
